@@ -31,7 +31,7 @@ The main aim of this project is to:
   2. Clone the Repository
 
 Clone using:
-git clone https://github.com/your-username/Smart-Loan-Adviser.git
+git clone https://github.com/sumit25mim10015-byte/Smart-Loan-Adviser.git
 
 3. Run the Python Script
 python loan_adviser.py
